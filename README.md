@@ -19,3 +19,4 @@ In a terminal or command window, navigate to the top-level project directory `sm
 
 This will run the `agent.py` file and execute your agent code.
 
+[![ScreenShot](https://github.com/vgpprasad91/Smart-Car-Training/blob/master/images/screen_capture.JPG)](https://youtu.be/QggNOFfZM24)
